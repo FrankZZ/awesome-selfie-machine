@@ -1,0 +1,19 @@
+{
+  "name": "awesome-selfie-machine",
+  "version": "0.0.1",
+  "description": "Awesome Selfie Machine Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankZZ/awesome-selfie-machine.git"
+  },
+  "author": "Frank Wammes, Rolf Koenders, Syam Sampatsing, David Grigorian, Daan Binkhuijsen, Ioana Rucareanu, Yury Liavitski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankZZ/awesome-selfie-machine/issues"
+  },
+  "homepage": "https://github.com/FrankZZ/awesome-selfie-machine#readme"
+}
