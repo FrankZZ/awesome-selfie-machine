@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FrankZZ/awesome-selfie-machine#readme",
   "dependencies": {
+    "aws-sdk": "^2.4.7",
     "request": "^2.73.0"
   }
 }
