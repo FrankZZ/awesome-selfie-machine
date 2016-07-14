@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FrankZZ/awesome-selfie-machine/issues"
   },
-  "homepage": "https://github.com/FrankZZ/awesome-selfie-machine#readme"
+  "homepage": "https://github.com/FrankZZ/awesome-selfie-machine#readme",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
 }
