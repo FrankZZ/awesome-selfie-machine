@@ -14,5 +14,5 @@ while True:
     input_state = GPIO.input(BUTTON)
     if input_state == False:
         print('Button Pressed')
-        call(["node", "./index.js"])
+        call(["node", "../index.js"])
         time.sleep(1)
