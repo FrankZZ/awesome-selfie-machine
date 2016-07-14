@@ -13,7 +13,7 @@ lib.slack('Taking an *AwesomeSelfie* in 3 seconds!', function () {
                     console.log('ERROR', err);
                     return;
                 }
-                lib.slack('http://awesomeselfiemachine.s3-website-eu-west-1.amazonaws.com/' + data.key, function () {
+                lib.slack('Oh my god, it\'s awesome! \nhttp://awesomeselfiemachine.s3-website-eu-west-1.amazonaws.com/' + data.key, function () {
                     console.log('DONE');
                 });
             });
