@@ -19,6 +19,7 @@
   "dependencies": {
     "aws-sdk": "^2.4.7",
     "exec": "^0.2.1",
+    "node-milight-promise": "^0.2.31",
     "raspicam": "^0.2.13",
     "request": "^2.73.0",
     "uuid": "^2.0.2"
